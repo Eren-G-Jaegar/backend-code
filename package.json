@@ -1,0 +1,16 @@
+{
+  "name": "backend-code",
+  "version": "1.0.0",
+  "description": "code to develop backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "sahil",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
