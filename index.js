@@ -48,7 +48,7 @@ app.get('/data',(req,res)=>{
 
 
 app.get('/',(req,res)=>{
-  res.send(`<h1>Hello User...Abhay</h1>`)
+  res.send(`<h1>Hello User...ujjal</h1>`)
 })
 
 app.get('/register',(req,res)=>{
